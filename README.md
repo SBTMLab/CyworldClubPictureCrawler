@@ -3,14 +3,16 @@
 
 ##Usage
 ###Install Requirements
+```
   pip install requests
-  
+```
+
 ###Get Club ID
-![사진 슬라이드](./imgs/img1.jpg) 
+![사진 슬라이드](./imgs/img1.png) 
 
 Click "사진 슬라이드 보기"
 
-![Club ID](./imgs/img2.jpg) 
+![Club ID](./imgs/img2.png) 
 
 Get Club ID from URL
 
@@ -18,13 +20,13 @@ Get Club ID from URL
 
 ###Edit Club ID
 Edit ```cyworldpicture.py```
-
+```
   #-*- coding: utf-8 -*-
   import requests
   import json
   
   club_id = ##Set Club ID
-
+```
 Put your Club ID Into ``` ##Set Club ID```
 
 
