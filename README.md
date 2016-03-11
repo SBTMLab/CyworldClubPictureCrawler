@@ -1,5 +1,7 @@
-# CyworldClubPictureCrawler
-싸이월드 클럽 사진 크롤러
+# Cyworld Club Picture Crawler
+(싸이월드 클럽 사진 크롤러)
+Download every pictures in Cyworld club.(싸이월드 클럽의 모든 사진을 다운로드 받는 Python 스크립트)
+
 
 ##Usage
 ###Install Requirements
