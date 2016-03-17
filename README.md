@@ -29,9 +29,10 @@ Edit ```cyworldpicture.py```
   
   club_id = ##Set Club ID
 ```
-Put your Club ID Into ``` ##Set Club ID```
+Put your Club ID into ``` ##Set Club ID```
 
 
 ###Execute Script
+```
   python cywordpicture.py
-
+```
